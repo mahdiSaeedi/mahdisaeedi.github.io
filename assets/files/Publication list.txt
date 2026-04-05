@@ -1,0 +1,83 @@
+Mahdi Saeedi Nikoo – Publication List
+
+🔎Google Scholar
+________________________________________
+📘 Journal Articles
+1.	Saeedi Nikoo, M., Kochanthara, S., Babur, Ö., & van den Brand, M. G. J.
+Process fragment recommendation in process modeling: are LLMs the answer?
+IEEE Transactions on Software Engineering (TSE), under revision.
+2.	Saeedi Nikoo, M., Kochanthara, S., Babur, Ö., & van den Brand, M. G. J.
+An empirical study of business process models and model clones on GitHub.
+Empirical Software Engineering (EMSE), 2025.
+3.	Saeedi Nikoo, M., Babur, Ö., & van den Brand, M. G. J.
+Clone detection for business process models.
+PeerJ Computer Science, 2022.
+4.	Kaya, M. C., Saeedi Nikoo, M., Schwartz, M. L., & Oğuztüzün, H.
+Internet of Measurement Things architecture: proof of concept with scope of accreditation.
+Sensors, 2020.
+5.	Suloglu, S., Kaya, M. C., Karamanlıoğlu, A., Entekhabi, S., Saeedi Nikoo, M., Tekinerdogan, B., & Dogru, A. H.
+Comparative analysis of variability modelling approaches in component models.
+IET Software, 2018.
+________________________________________
+🎤 Conference Proceedings
+5.	Saeedi Nikoo, M., Kochanthara, S., Babur, Ö., & van den Brand, M. G. J.
+An empirical study of business process models and model clones on GitHub.
+Foundations of Software Engineering (FSE), Journal-First track, 2025, Trondheim, Norway
+6.	Saeedi Nikoo, M., Babur, Ö., & van den Brand, M. G. J.
+A survey on service composition languages.
+MODELS Companion, 2020, Montreal, Canada.
+7.	Saeedi Nikoo, M., & Oğuztüzün, H.
+Variability extension to SparkS, a domain specific scripting language for electronic test equipment.
+UBMK, 2019, Samsun, Turkey.
+8.	Saeedi Nikoo, M., Kaya, M. C., Schwartz, M. L., & Oğuztüzün, H.
+An MII-aware SoA editor for the Industrial Internet of Things.
+MetroInd4.0&IoT, 2019, Naples, Italy.
+9.	Garipler, A., Sorguç, E., Özel, E., Uslu, S. E., Saeedi Nikoo, M., & Oğuztüzün, H.
+Bir ölçüm cihazının programlama arayüzü için model öğrenme.
+(Model learning for the programming interface of measurement equipment)
+UYMS, 2019, İzmir, Turkey
+10.	Altuncu, E., Bilgehan, B. K., Kartal, Y. S., Kızılgüneş, S., Saeedi Nikoo, M., & Oğuztüzün, H.
+Blocks and text integration in a language-based editor for a domain-specific language.
+UBMK, 2017, Antalya, Turkey.
+11.	Kaya, M. C., Karamanlıoğlu, A., Saeedi Nikoo, M., Entekhabi, S., Suloglu, S., & Dogru, A. H.
+Bileşen modellerinde değişkenlik yönetimi yaklaşımlarının karşılaştırılması.
+(A comparison of variability management approaches in component models)
+UYMS, 2016, Canakkale, Turkey.
+12.	Kaya, M. C., Saeedi Nikoo, M., Suloglu, S., & Dogru, A. H.
+Towards verification of component compositions incorporating variability.
+SDPS, 2015, Fort Worth Texas USA.
+________________________________________
+📖 Book Chapters
+11.	Saeedi Nikoo, M., Kaya, M. C., Schwartz, M. L., & Oğuztüzün, H.
+Internet of Measurement Things: toward an architectural framework for the calibration industry.
+The Internet of Things in the Industrial Sector: Security and Device Connectivity, Smart Environments, and Industry 4.0, Springer, 2019.
+12.	Kaya, M. C., Saeedi Nikoo, M., Suloglu, S., Tekinerdogan, B., & Dogru, A. H.
+Managing heterogeneous communication challenges in the Internet of Things using connector variability.
+Connected Environments for the Internet of Things: Challenges and Solutions, Springer, 2018.
+________________________________________
+🎓 Thesis Work
+13.	Saeedi Nikoo, M.
+Supporting business process management: clone detection and recommendation techniques.
+PhD Thesis, Eindhoven University of Technology, 2025.
+14.	Saeedi Nikoo, M.
+SPARKS: A language for test process scripting for instrumentation systems.
+MSc Thesis, Middle East Technical University, 2015.
+________________________________________
+👩‍🎓 Supervised MSc Works
+15.	Gunasekaran, R., Barosan, I., Babur, Ö., & Saeedi Nikoo, M.
+Creating and validating a domain specific language for Arrowhead Framework in the Internet of Things domain.
+Eindhoven University of Technology, 2020.
+16.	Zioual, A., van den Brand, M., Babur, Ö., & Saeedi Nikoo, M.
+Model repository as a service in a model analytics workflow.
+Eindhoven University of Technology, 2021.
+________________________________________
+💻 Code & Data Publications (Replication Packages)
+17.	Saeedi Nikoo, M., Kochanthara, S., Babur, Ö., & van den Brand, M.
+Replication package including data and code for “Subprocess Recommendation in Process Modeling: Are Large Language Models the Answer?”.
+Eindhoven University of Technology, 2025.
+18.	Saeedi Nikoo, M., Kochanthara, S., Babur, Ö., & van den Brand, M.
+Supplemental material including data and code for “An empirical study of business process models and model clones on GitHub”.
+Eindhoven University of Technology, 2023.
+19.	Saeedi Nikoo, M., Babur, Ö., & van den Brand, M.
+Replication package including data and code for “Clone detection for business process models”.
+Eindhoven University of Technology, 2022.
