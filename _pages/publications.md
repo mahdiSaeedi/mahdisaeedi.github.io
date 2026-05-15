@@ -9,7 +9,7 @@ author_profile: true
 
 ## Journal Articles
 
-<!-- 1. Saeedi Nikoo, M., Kochanthara, S., Babur, O., and van den Brand, M. G. J. "Process fragment recommendation in process modeling: are LLMs the answer?" IEEE Transactions on Software Engineering, under revision. -->
+1. Saeedi Nikoo, M., Kochanthara, S., Babur, O., and van den Brand, M. G. J. "Process fragment recommendation in process modeling: are LLMs the answer?" IEEE Transactions on Software Engineering, under publication.
 2. Saeedi Nikoo, M., Kochanthara, S., Babur, O., and van den Brand, M. G. J. ["An empirical study of business process models and model clones on GitHub."](https://link.springer.com/article/10.1007/s10664-024-10584-z) Empirical Software Engineering, 2025.
 3. Saeedi Nikoo, M., Babur, O., and van den Brand, M. G. J. ["Clone detection for business process models."](https://peerj.com/articles/cs-1046/) PeerJ Computer Science, 2022.
 4. Kaya, M. C., Saeedi Nikoo, M., Schwartz, M. L., and Oguztuzun, H. ["Internet of Measurement Things architecture: proof of concept with scope of accreditation."](https://www.mdpi.com/1424-8220/20/2/503) Sensors, 2020.
