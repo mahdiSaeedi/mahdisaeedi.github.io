@@ -5,7 +5,8 @@ ________________________________________
 📘 Journal Articles
 1.	Saeedi Nikoo, M., Kochanthara, S., Babur, Ö., & van den Brand, M. G. J.
 Process fragment recommendation in process modeling: are LLMs the answer?
-IEEE Transactions on Software Engineering (TSE), Under Publication.
+https://ieeexplore.ieee.org/document/11520652
+IEEE Transactions on Software Engineering (TSE), Early Access, published online.
 2.	Saeedi Nikoo, M., Kochanthara, S., Babur, Ö., & van den Brand, M. G. J.
 An empirical study of business process models and model clones on GitHub.
 Empirical Software Engineering (EMSE), 2025.
